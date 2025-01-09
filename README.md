@@ -3,15 +3,15 @@
 <h2>👨‍💻 Information Technology Projects: </h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
+  - [osTicket: Prerequisites and Installation](https://github.com/michaeltnvu/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/michaeltnvu/osticket-post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/michaeltnvu/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
-  - [VPN Setup and Usage]
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Exploring DNS Management and Practices]
-  - [Network Shares and File Permission Management]
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michaeltnvu/azure-network-protocols)
+  - [VPN Setup and Usage](https://github.com/michaeltnvu/vpn-lab)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michaeltnvu/ad-config)
+  - [Exploring DNS Management and Practices](https://github.com/michaeltnvu/dns-lab)
+  - [Network Shares and File Permission Management](https://github.com/michaeltnvu/network-file-share-lab)
 
 <h2>🤳Connect with me:</h2>
 
